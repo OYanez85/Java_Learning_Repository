@@ -11,21 +11,37 @@ Each chapter has its own directory containing Java files for that chapter’s ex
 
 Repository Contents
 Chapter 1 - Breaking the Surface: Introduction to basic Java syntax, compiling, and running programs.
+
 Chapter 2 - A Trip to Objectville: Introduction to classes, objects, and methods.
+
 Chapter 3 - Know Your Variables: Data types, variables, and basic operations.
+
 Chapter 4 - How Objects Behave: Understanding object state, methods, parameters, and return values.
+
 Chapter 5 - Extra-Strength Methods: Working with methods, encapsulation, and this keyword.
+
 Chapter 6 - Using the Java Library: Introduction to Java standard library and commonly used classes.
+
 Chapter 7 - Better Living in Objectville: Inheritance, polymorphism, and object-oriented principles.
+
 Chapter 8 - Serious Polymorphism: Polymorphism in depth, including casting and the Object class.
+
 Chapter 9 - Life and Death of an Object: Understanding constructors, garbage collection, and finalization.
+
 Chapter 10 - Numbers Matter: Working with numbers, formatting, and the Java Math API.
+
 Chapter 11 - Risky Behavior: Exception handling, try, catch, finally blocks, and custom exceptions.
+
 Chapter 12 - A Very Graphic Story: Introduction to GUI programming with Swing, drawing shapes, and handling events.
+
 Chapter 13 - Work on Your Swing: Building GUI applications with Swing components like buttons, labels, and text fields.
+
 Chapter 14 - Saving Objects: Serialization, file handling, and saving objects to disk.
+
 Chapter 15 - Make a Connection: Networking basics in Java, including sockets and client-server communication.
+
 Chapter 16 - Data Structures: Introduction to Java collections, including ArrayList, HashMap, and more.
+
 Chapter 17 - Release Your Code: Packaging and deploying Java applications.
 
 Each chapter directory may contain:

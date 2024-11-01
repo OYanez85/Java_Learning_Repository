@@ -10,6 +10,7 @@ Structure
 Each chapter has its own directory containing Java files for that chapter’s exercises. This structure follows the order of the chapters in the book, from Java basics to more advanced topics.
 
 Repository Contents
+
 Chapter 1 - Breaking the Surface: Introduction to basic Java syntax, compiling, and running programs.
 
 Chapter 2 - A Trip to Objectville: Introduction to classes, objects, and methods.

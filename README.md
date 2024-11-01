@@ -3,13 +3,15 @@ A learner's guide to real-world programming.
 
 # Head First Java - Exercise Repository
 
-Overview
+- Overview
+- 
 This repository contains solutions and code examples for exercises from the Head First Java book by Kathy Sierra and Bert Bates. The code is organized by chapters, following the progression of topics in the book. Each chapter directory includes Java files related to that chapter’s exercises, giving hands-on practice for key Java concepts.
 
-Structure
+- Structure
+
 Each chapter has its own directory containing Java files for that chapter’s exercises. This structure follows the order of the chapters in the book, from Java basics to more advanced topics.
 
-Repository Contents
+- Repository Contents
 
 Chapter 1 - Breaking the Surface: Introduction to basic Java syntax, compiling, and running programs.
 
@@ -45,20 +47,20 @@ Chapter 16 - Data Structures: Introduction to Java collections, including ArrayL
 
 Chapter 17 - Release Your Code: Packaging and deploying Java applications.
 
-Each chapter directory may contain:
+- Each chapter directory may contain:
 
 Exercise Code: Code files for specific exercises or challenges.
 Practice Projects: Additional small projects to reinforce chapter concepts.
 Notes: Some chapters include a NOTES.md file summarizing key points or complex parts of the chapter.
 
-Prerequisites
+- Prerequisites
 
 To run the code in this repository, you will need:
 
 Java Development Kit (JDK): Ensure you have JDK 8 or later installed.
 Text Editor or IDE: You can use any text editor, but IntelliJ IDEA or Eclipse is recommended for Java development.
 
-How to Use This Repository
+- How to Use This Repository
 
 Clone this repository to your local machine:
 
@@ -66,19 +68,19 @@ git clone [repository URL]
 Navigate to the chapter directory you wish to explore.
 Compile and run the Java files using a terminal or your preferred IDE.
 
-Baked Code Repository
+- Baked Code Repository
 
 Some of the exercises in the book refer to code snippets or "baked" code provided by the authors. You can find these additional resources and starting code at the following link:
 
-Baked Code - Head First Java Examples
+- Baked Code - Head First Java Examples
 
 This resource contains pre-written code for certain exercises, which may be used as a base for solving some of the more complex challenges in the book.
 
-License
+- License
 
 This repository is intended for educational purposes and to complement the exercises in Head First Java. Please ensure you have a legal copy of the book before using the code here, as the exercises and examples are intended to be used alongside the book content.
 
-Disclaimer
+- Disclaimer
 
 This repository is maintained by an individual following Head First Java and is not an official repository from the book authors or publishers.
 

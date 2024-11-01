@@ -1,6 +1,8 @@
 # Head_First_Java_Third_Edition
 A learner's guide to real-world programming. 
 
+https://smiling-litter-f21.notion.site/Java-programming-notes-Head-First-Java-notes-11dae9ccb01880ed9ec7fc714c630cca
+
 # Head First Java - Exercise Repository
 
 - Overview

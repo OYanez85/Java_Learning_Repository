@@ -8,7 +8,7 @@ Head First Java book
 
 The purpose of this repository is to consolidate all my learning materials, code examples, and notes as I progress through both the Coursera specialization and Head First Java. This repository serves as my personal reference and a record of my Java programming journey.
 
-For additional notes, you can refer to my Notion page: Java programming notes - Head First Java notes
+For additional notes, you can refer to my Notion page: Java programming notes - Head First Java notes : https://smiling-litter-f21.notion.site/Java-programming-notes-Head-First-Java-notes-11dae9ccb01880ed9ec7fc714c630cca
 
 # Repository Structure
 

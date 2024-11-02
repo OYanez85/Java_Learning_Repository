@@ -18,3 +18,4 @@ Thing h = f;              // Set h to refer to the same Thing object as f (the o
 Thing j = h;              // Set j to refer to the same Thing object as h (also the one with a = 3)
 
 // How many Thing objects are created?
+2

@@ -12,3 +12,6 @@ public class Mystery {
     }
   }
 }
+
+// Which one of the following is the name of a method?
+

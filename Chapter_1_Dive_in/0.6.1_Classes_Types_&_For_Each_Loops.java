@@ -16,3 +16,5 @@ public class Thing {                // Define a public class named Thing
   }
 }
 
+// What is (or are) the instance variable(s) in this class?
+

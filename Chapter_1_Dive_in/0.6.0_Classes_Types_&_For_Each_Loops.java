@@ -14,4 +14,7 @@ public class Mystery {
 }
 
 // Which one of the following is the name of a method?
-
+//A) someFile
+//B) phrase
+//C) Mystery
+//D) DoSomething

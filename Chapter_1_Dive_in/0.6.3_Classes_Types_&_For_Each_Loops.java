@@ -31,18 +31,18 @@ for (String g : f.lines()) {
 A) elephant
    monkey
   
-B) cat
-   tiger
-   lion
+//B) cat
+//   tiger
+//   lion
   
-C) elephant 
-   monkey 
-   tiger
+//C) elephant 
+//   monkey 
+//   tiger
   
-D) cat
-   elephant
-   monkey
-   tiger
-   lion
+//D) cat
+//   elephant
+//   monkey
+//   tiger
+//   lion
 
 

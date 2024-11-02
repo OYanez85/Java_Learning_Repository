@@ -1,18 +1,18 @@
 // Consider the Thing class shown below.
-public class Thing {
+public class Thing {               // Define a public class named Thing
   
-  private int a;
+  private int a;                   // Declare a private integer instance variable a
   
-  public Thing(int x) {
-    a = x;
+  public Thing(int x) {            // Define a constructor that takes an integer x
+    a = x;                         // Initialize the instance variable a with the value of x
   }
   
-  public int geta() {
-    return a ;
+  public int geta() {              // Define a public method named geta that returns an integer
+    return a;                      // Return the value of the instance variable a
   }
   
-  public void combine (Thing y) {
-    a = a + y.geta();
+  public void combine(Thing y) {   // Define a public method named combine that takes a Thing object y
+    a = a + y.geta();              // Add the value of y's a (accessed via y.geta()) to this object's a
   }
 }
 

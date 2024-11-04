@@ -24,8 +24,22 @@ public class TagFinder {
     }
     
     public void testing() {
-        String a = "cccatggggtttaaataataataggagagagagagagagttt";
-        String ap = "atggggtttaaataataatag";
+        String dna = "AATGCGTAATATGGT";
+        System.out.println("DNA strand is " + dna);
+        String gene = findGeneSimple(dna);
+        System.out.println("Gene is " + gene);
+
+        //dna = "AATGCTAGGGTAATATGGT";
+        dna = "CGATGGTTTG";
+        System.out.println("DNA strand is " + dna);
+        gene = findGeneSimple(dna);
+        System.out.println("Gene is " + gene);
+
+        dna = "ATCCTATGCTTCGGCTGCTCTAATATGGT";
+        System.out.println("DNA strand is " + dna);
+        gene = findGeneSimple(dna);
+        System.out.println("Gene is " + gene);
+
         //String a = "atgcctag";
         //String ap = "";
         //String a = "ATGCCCTAG";

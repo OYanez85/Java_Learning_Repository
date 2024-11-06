@@ -24,6 +24,7 @@ public class AllCodons { // Define the AllCodons class
         int tagIndex = findStopCodon(dna, startIndex, "TAG"); // Find "TAG" stop codon from startIndex
         int tgaIndex = findStopCodon(dna, startIndex, "TGA"); // Find "TGA" stop codon from startIndex
         int temp = Math.min(taaIndex,tagIndex);
+        //int minIndex = Math.min(taaIndex,Math.min(tagIndex,tgaIndex));
         int minIndex = Math.min(temp, tgaIndex); // Find the minimum of the three stop codon indices
 
         if (minIndex == dna.length()) { // If no valid stop codon is found (minIndex equals dna length)
